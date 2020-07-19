@@ -18,3 +18,4 @@
 Yes thats the Name of my Rig... :D
 
 * [Screen 1](https://www.amazon.de/AOC-C24G1-DisplayPort-Reaktionszeit-1920x1080/dp/B07DTN4BM8)
+* 
