@@ -22,6 +22,7 @@ Yes thats the Name of my Rig... :D
 * [Case](https://www.amazon.de/gp/product/B07RW8GLQJ/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8)
 * [CPU](https://www.amazon.de/AMD-Ryzen-2700-Prozessor-Basistakt/dp/B07B41717Z/ref=sr_1_4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91)
 * [AIO Cooler](https://www.amazon.de/gp/product/B0849SJMCW/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8)
+* [Motherboard](https://www.amazon.de/B450M-MORTAR-MAX-Gaming-Motherboard/dp/B07WC6LLB6)
 * [GPU](https://www.amazon.de/gp/product/B07JHXGJWZ/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8)
 * [RAM](https://www.amazon.de/G-Skill-Trident-16GB-16GTZR-2x8GB/dp/B01MTDEYHU/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91)
 * [HDD1](https://www.amazon.de/Seagate-ST1000DMZ10-BarraCuda-Festplatte-silberfarben/dp/B07D99KFPK/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91)
