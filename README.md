@@ -5,6 +5,8 @@
 * Loves: you! and donuts and games maybe -///-
 * Needs: much love -//////-
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrincessAkira&show_icons=true&theme=synthwave)
+
 # Me free time (*/ω＼*)
 * lewd stuff :3
 * building pc´s
@@ -13,8 +15,6 @@
 * using Linux for all shit x-x
 * verified bot developer
 * developed Kneesocks-Bot
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrincessAkira&show_icons=true&theme=synthwave)
 
 # Yukinator ╰(*°▽°*)╯
 Yes thats the Name of my Rig... :D
