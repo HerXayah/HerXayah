@@ -14,6 +14,8 @@
 * verified bot developer
 * developed Kneesocks-Bot
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrincessAkira&show_icons=true&theme=synthwave)
+
 # Yukinator ╰(*°▽°*)╯
 Yes thats the Name of my Rig... :D
 
