@@ -15,6 +15,7 @@
 * using Linux for all shit x-x
 * verified bot developer
 * developed Kneesocks-Bot
+* developing Yukii-Bot atm
 
 # Yukinator ╰(*°▽°*)╯
 Yes thats the Name of my Rig... :D
