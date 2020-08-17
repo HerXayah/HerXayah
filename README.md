@@ -5,8 +5,6 @@
 * Loves: you! and donuts and games maybe -///-
 * Needs: much love -//////-
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrincessAkira&show_icons=true&theme=synthwave)
-
 # Me free time (*/ω＼*)
 * lewd stuff :3
 * building pc´s
