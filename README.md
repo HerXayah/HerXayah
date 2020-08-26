@@ -31,5 +31,5 @@ Yes thats the Name of my Rig... :D
 
 # Contact me ᓚᘏᗢ
 * [Website](http://smallyukii.me)
-* Discord: Yukii#6969
+* Discord: Yukii#0004
 * [Twitter](https://twitter.com/SmallYukii)
