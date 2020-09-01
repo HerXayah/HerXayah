@@ -1,5 +1,5 @@
 # Meeh (●'◡'●)
-* Name: Yukii / Yukina
+* Name: Yukii
 * Age: 16
 * Nationality: Pink Fluffy Unicorn
 * Loves: you! and donuts and games maybe -///-
@@ -32,4 +32,4 @@ Yes thats the Name of my Rig... :D
 # Contact me ᓚᘏᗢ
 * [Website](http://smallyukii.me)
 * Discord: Yukii#0004
-* [Twitter](https://twitter.com/SmallYukii)
+* [Twitter](https://twitter.com/AzarielDev)
