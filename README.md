@@ -6,7 +6,7 @@
 * Needs: much love -//////-
 
 # Me free time (*/ω＼*)
-* lewd stuff :3
+* lewd af
 * building pc´s
 * doing pc support
 * modding windows etc etc
