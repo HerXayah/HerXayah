@@ -1,6 +1,6 @@
 # Meeh (●'◡'●)
 * Name: Yukii | Azariel
-* Age: 16
+* Age: üwü
 * Nationality: Pink Fluffy Unicorn
 * Loves: you! and donuts and games maybe -///-
 * Needs: much love -//////-
@@ -9,7 +9,6 @@
 * lewd af
 * building pc´s
 * doing pc support
-* modding windows etc etc
 * using Linux for all shit x-x
 * verified bot developer
 * developed Kneesocks-Bot
