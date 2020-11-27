@@ -51,7 +51,7 @@
 <p align="center">Here are some of my <br>
 most used social things</p>
 <p align="center"><img href="https://twitter.com/AzarielDev" src="https://img.shields.io/badge/AzarielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <img href="discord.me/cozythighs" src="https://img.shields.io/badge/CozyThighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></p>
-<p align="center"></p>
+<p align="center">    <img href="https://twitch.tv/AzarielDev" src="https://img.shields.io/badge/AzarielDev%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></p>
 </div>
 <br>
 <br>
@@ -61,8 +61,4 @@ most used social things</p>
 </div>
 </body>
 
-<div width="240px" height="300px">
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
