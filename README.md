@@ -34,10 +34,15 @@
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 </div>
 <div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h2>Contact me!</h2>
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
-
-<br><br><br><br><br><br>
 <p align="center">Here are some of my <br>
 most used social things</p>
 <p align="center"><img href="https://twitter.com/AzarielDev" src="https://img.shields.io/badge/AzarielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <img href="discord.me/cozythighs" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></p>
