@@ -1,9 +1,10 @@
 <body>
 <h1 align="center">~ 💖 Welcome to my Profile 💖 ~</h1>
+<br>
 <div align="center">
 <table> 
    <tr> 
-      <td><div><img src="https://i.imgur.com/VU0ouHj.gif"></div></td><td><div>     Listening to
+      <td><div><img src="https://i.imgur.com/VU0ouHj.gif"></div></td><td><div>
       
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
    </div></td> 
