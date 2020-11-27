@@ -31,7 +31,7 @@
 <div>
 <h2 align="left" style="font-size: 24px">𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮</h2>
 <p>
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right">
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 </div>
 <div>
 <br>
@@ -51,7 +51,7 @@
 <br>
 <br>
 <h2>Contact me!</h2>
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif" align="right">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right">
 <br>
 <p align="center">Here are some of my <br>
 most used social things</p>
