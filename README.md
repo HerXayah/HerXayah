@@ -1,5 +1,6 @@
 <body>
-<div align="center">
-<h1 style="font-size: 18px">Hello Im Yukii</h1></div>
-
+<div> 
+<h1>Header</h1>
+<div class="right">Regular Text Goes Here</div>
+</div>
 </body>
