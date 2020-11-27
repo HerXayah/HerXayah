@@ -3,13 +3,14 @@
 <div align="center">
 <img src="https://i.imgur.com/VU0ouHj.gif" align="center">
 </div>
+<br><br>
+<h1 align="center">Current Jam</h1>
 <div align="center">
-<br>
+<br> 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 <br>
-
 <h1 align="left">About me</h1>
 </body>
