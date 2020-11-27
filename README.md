@@ -39,7 +39,6 @@
 Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design, which i mostly post on Twitter, where a big part my Stuff already is sitting
 </p>
 <br>
-<br>
 <h2>                   📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
@@ -48,7 +47,6 @@ most used s-s-sociaw things >~< xoxox</p>
 <p align="center"><a href="https://twitter.com/AzawielDev" target="_blank"><img src="https://img.shields.io/badge/AzawielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 <p align="center">  <a href="https://twitch.tv/AzawielDev" target="_blank"><img src="https://img.shields.io/badge/AzarielDev%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
-<br>
 <br>
 <div>
 <br>
