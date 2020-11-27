@@ -28,6 +28,7 @@
 <br>
 <p><b>     Thanks fow weading this onyee-san</b></p>
 </div>
+<br>
 <div>
 <h2 align="left" style="font-size: 24px">                  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
@@ -49,7 +50,6 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <br>
 <div>
-<br>
 <h2 align="left" style="font-size: 24px">                ~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
 <br>
 <div align="left"><p>
