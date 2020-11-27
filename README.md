@@ -61,5 +61,8 @@ most used social things</p>
 </div>
 </body>
 
+<div width="240px" height="300px">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
