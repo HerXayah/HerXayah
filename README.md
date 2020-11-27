@@ -30,12 +30,17 @@
 </div>
 <div>
 <h2 align="left" style="font-size: 24px">📓 Contact 📓</h2>
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="left">
 <li>
 </li>
 <li>
 </li>
 <li>
 </li>
+</div>
+
+<div>
+<h2 align="left" style="font-size: 24px">Current Jam </h2>
 </div>
 
 </body>
