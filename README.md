@@ -59,7 +59,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <br>
 <div align="left"><p>
 
-                       [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+                    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 <p>
 <br>
 <br>
