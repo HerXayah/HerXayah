@@ -46,7 +46,7 @@
 <br>
 <br>
 <h2>Contact me!</h2>
-<img src="https://camo.githubusercontent.com/1e629c93934b9dafa954f05bc96b16f14373570b/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f34363564373535633963643532663965313235336334376161373863363834302f74756d626c725f696e6c696e655f70716f6c72714c347671317762743669705f3534302e676966" align="right">
+<img src="https://cdn.discordapp.com/attachments/776897633892696074/781993385459974224/tenor_1.gif" align="right">
 <br>
 <p align="center">Here are some of my <br>
 most used social things</p>
