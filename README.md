@@ -14,6 +14,9 @@
 </li>
 <li>
 <b>Loves:</b> you! and donuts and games maybe -///-
+<div height="400" width="500" align="right" src="
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile) "
 </li>
 <li>
 <b>Needs:</b> much love -//////-
