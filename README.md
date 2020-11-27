@@ -1,8 +1,8 @@
 <body>
 <h1 align="center">Welcome to my Profile</h1>
-<h2 align="left">About me</h2>
-<div>
-<div style="float: left">Test</div>
-<img style="float: right" src="https://i.imgur.com/dGUi0Cn.png">
-</div>
+<br>
+<div align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)</div>
+<br>
+
+<h1 align="left">About me</h1>
 </body>
