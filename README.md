@@ -30,7 +30,7 @@
 </div>
 <br>
 <div>
-<h2 align="left" style="font-size: 24px">                     ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="left" style="font-size: 24px">                  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 </div>
@@ -55,7 +55,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <br>
 <div>
 <br>
-<h2 align="left" style="font-size: 24px">                   ~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
+<h2 align="left" style="font-size: 24px">                ~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
 <br>
 <div align="left"><p>
 
