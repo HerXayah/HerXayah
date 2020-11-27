@@ -40,7 +40,7 @@
 </div>
 
 <div>
-<h2 align="left" style="font-size: 24px">Current Jam </h2>
+<h2 align="right" style="font-size: 24px">Current Jam </h2>
 </div>
 
 </body>
