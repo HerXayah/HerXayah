@@ -19,6 +19,13 @@
 <li>
 <b>Needs:</b> much love -//////-
 </li>
+<li>
+<b>Hobbys:</b> Tech Stuff, Graphics Design
+</li>
+<li>
+<b>Working @:</b> Intave Anticheat & MinetaniaNET
+</li>
+<p align="center"><b>Thanks fow weading this onyee-san</b></p>
 </div>
 <div>
 <h2 align="left">📓 Contact 📓</h2>
