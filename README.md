@@ -26,10 +26,10 @@
 <b>Working @:</b> Intave Anticheat & MinetaniaNET
 </li>
 <br>
-<p align="center"><b>Thanks fow weading this onyee-san</b></p>
+<p><b>Thanks fow weading this onyee-san</b></p>
 </div>
 <div>
-<h2 align="left">📓 Contact 📓</h2>
+<h2 align="left" style="font-size: 24px">📓 Contact 📓</h2>
 <li>
 </li>
 <li>
