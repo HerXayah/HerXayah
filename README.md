@@ -50,18 +50,20 @@
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><img href="https://twitter.com/AzawielDev" src="https://img.shields.io/badge/AzarielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <img href="discord.me/cozythighs" src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></p>
+<p align="center"><a href="https://twitter.com/AzawielDev"><img src="https://img.shields.io/badge/AzarielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <img href="discord.me/cozythighs" src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></p>
 <p align="center">  <img href="https://twitch.tv/AzawielDev" src="https://img.shields.io/badge/AzarielDev%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></p>
 </div>
 <br>
 <br>
 <div>
 <br>
-<h2 align="left" style="font-size: 24px">Current Jam </h2>
+<h2 align="left" style="font-size: 24px">~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
+<br>
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
+<hr>
 </div>
 </body>
