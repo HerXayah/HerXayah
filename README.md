@@ -45,7 +45,6 @@
 <br>
 <br>
 <br>
-<br>
 <h2>Contact me!</h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
@@ -57,6 +56,7 @@ most used social things</p>
 <br>
 <br>
 <div>
+<br>
 <h2 align="left" style="font-size: 24px">Current Jam </h2>
 </div>
 </body>
