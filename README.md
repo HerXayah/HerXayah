@@ -1,6 +1,3 @@
 <body>
-<div> 
-<h1>Header</h1>
-<div class="right">Regular Text Goes Here</div>
-</div>
+<div align="center" style="font-size: 24px">Welcome to my Profile</div>
 </body>
