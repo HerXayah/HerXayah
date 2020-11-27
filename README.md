@@ -9,7 +9,8 @@
 <h2 align="left"> 🦊 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🦊 </h2>
 <div height="400" width="500" align="right" src="
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile) "
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile) ">
+</div>
 <li>
 <b>Name:</b> Yukii</li>
 <li>
