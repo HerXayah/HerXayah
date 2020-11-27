@@ -41,6 +41,10 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 <h2>Contact me!</h2>
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 <p align="center">Here are some of my <br>
