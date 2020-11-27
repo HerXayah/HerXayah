@@ -29,31 +29,17 @@
 <p><b>Thanks fow weading this onyee-san</b></p>
 </div>
 <div>
-<h2 align="left" style="font-size: 24px">📓 Contact 📓</h2>
+<h2 align="left" style="font-size: 24px">𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮</h2>
+<p>
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
-<li>
-</li>
-<li>
-</li>
-<li>
-</li>
-<li>
-</li>
-<li>
-</li>
-<li>
-</li>
-<li>
-</li>
-<li>
-</li>
-<li>
-</li>
-</div>
-<div>
-<h2 align="right" style="font-size: 24px">Current Jam </h2>
-</div>
 
+<p align="center">Heres some Social Stuff if you want</p>
+<p align="center"><img href="https://twitter.com/AzarielDev" src="https://img.shields.io/badge/AzarielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <img href="discord.me/cozythighs" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></p>
+<p align="center"></p>
+<div>
+<h2 align="left" style="font-size: 24px">Current Jam </h2>
+</div>
+</div>
 </body>
 
 
