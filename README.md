@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="left"> 🦊 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🦊 </h2>
-<img src="https://i.imgur.com/6kVDGoi.png" align="left">
+<img src="https://i.imgur.com/V3E6QTq.png" align="right">
 <li>
 <b>Name:</b> Yukii</li>
 <li>
