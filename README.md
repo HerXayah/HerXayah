@@ -59,7 +59,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <br>
 <h2 align="left" style="font-size: 24px">                   ~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
 <br>
-<div align="center">                   
+<div align="left">                   
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
