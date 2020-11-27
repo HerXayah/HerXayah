@@ -56,8 +56,6 @@ most used social things</p>
 </div>
 <br>
 <br>
-<br><br>
-<br>
 <div>
 <h2 align="left" style="font-size: 24px">Current Jam </h2>
 </div>
