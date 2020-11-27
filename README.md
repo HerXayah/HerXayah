@@ -2,12 +2,12 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://i.imgur.com/jx17oHT.gif">
+<img src="https://i.imgur.com/jx17oHT.gif" align="left">
+<img src="https://i.imgur.com/V3E6QTq.png" align="right">
 </div>
 <br>
 <div>
 <h2 align="left"> 🦊 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🦊 </h2>
-<img src="https://i.imgur.com/V3E6QTq.png" align="right">
 <li>
 <b>Name:</b> Yukii</li>
 <li>
