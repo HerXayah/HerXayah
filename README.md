@@ -26,7 +26,8 @@
 <b>Working @:</b> Intave Anticheat & MinetaniaNET
 </li>
 <br>
-<p><b>     Thanks fow weading this onyee-san</b></p>
+<p><b>     Thanks fow weading this onyee-san><br>
+                         verwy naiwce</b></p>
 </div>
 <br>
 <div>
