@@ -46,7 +46,7 @@
 <br>
 <br>
 <h2>Contact me!</h2>
-<img src="https://cdn.discordapp.com/attachments/776897633892696074/781993385459974224/tenor_1.gif" align="right">
+<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif" align="right">
 <br>
 <p align="center">Here are some of my <br>
 most used social things</p>
