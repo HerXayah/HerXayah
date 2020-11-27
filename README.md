@@ -61,9 +61,14 @@ most used s-s-sociaw things >~< xoxox</p>
 <br>
 <div align="left"><p>
 
-                   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+                     [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 <p>
+<br>
+<br>
 </div>
-<hr>
+<div>
+<hr2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</hr2>
+<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif" align="center">
+</div>
 </div>
 </body>
