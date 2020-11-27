@@ -30,7 +30,7 @@
 </div>
 <br>
 <div>
-<h2 align="left" style="font-size: 24px">                   ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="left" style="font-size: 24px">                     ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 </div>
@@ -43,11 +43,11 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 <br>
 <br>
-<h2>                 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2>                   📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
-<p align="left">              Hewe awe some of my <br>
-            most used s-s-sociaw things >~< xoxox</p>
+<p align="center">Hewe awe some of my <br>
+most used s-s-sociaw things >~< xoxox</p>
 <p align="center"><a href="https://twitter.com/AzawielDev" target="_blank"><img src="https://img.shields.io/badge/AzawielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 <p align="center">  <a href="https://twitch.tv/AzawielDev" target="_blank"><img src="https://img.shields.io/badge/AzarielDev%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
@@ -55,11 +55,11 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 <div>
 <br>
-<h2 align="left" style="font-size: 24px">               ~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
+<h2 align="left" style="font-size: 24px">                   ~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
 <br>
 <div align="left"><p>
 
-                     [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+                       [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 <p>
 <br>
 <br>
