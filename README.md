@@ -45,6 +45,11 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h2>Contact me!</h2>
 <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif" align="right">
 <br>
