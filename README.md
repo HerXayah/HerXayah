@@ -18,12 +18,16 @@
 <li>
 <b>Needs:</b> much love -//////-
 </li>
-<li>
-<b>Introduction:</b> *web dev noises* Thanks fow  weading this. knyeesocks pwus skiwt nyice
-</li>
 </div>
 <div>
-<h2></h2>
+<h2 align="left">📓 Contact 📓</h2>
+<li>
+
+</li>
+<li>
+</li>
+<li>
+</li>
 </div>
 
 </body>
