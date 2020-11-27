@@ -51,7 +51,7 @@
 <br>
 <br>
 <h2>Contact me!</h2>
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
 <p align="center">Here are some of my <br>
 most used social things</p>
