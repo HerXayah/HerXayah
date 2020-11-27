@@ -40,7 +40,6 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 </p>
 <br>
 <br>
-<br>
 <h2>                   📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
