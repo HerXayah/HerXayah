@@ -32,7 +32,7 @@
 <div>
 <h2 align="left" style="font-size: 24px">𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮</h2>
 <p>
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="left>
 </div>
 <div>
 <br>
@@ -51,7 +51,7 @@
 <p align="center">Here are some of my <br>
 most used social things</p>
 <p align="center"><img href="https://twitter.com/AzarielDev" src="https://img.shields.io/badge/AzarielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <img href="discord.me/cozythighs" src="https://img.shields.io/badge/CozyThighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></p>
-<p align="center">    <img href="https://twitch.tv/AzarielDev" src="https://img.shields.io/badge/AzarielDev%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></p>
+<p align="center">   <img href="https://twitch.tv/AzarielDev" src="https://img.shields.io/badge/AzarielDev%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></p>
 </div>
 <br>
 <br>
