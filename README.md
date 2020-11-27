@@ -32,7 +32,7 @@
 <div>
 <h2 align="left" style="font-size: 24px">𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮</h2>
 <p>
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="left>
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 </div>
 <div>
 <br>
