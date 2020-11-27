@@ -1,7 +1,12 @@
 <body>
 <h1 align="center">Welcome to my Profile</h1>
+<img src="https://i.imgur.com/VU0ouHj.gif" align="center">
+<div align="center">
 <br>
-<div align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)</div>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
 <br>
 
 <h1 align="left">About me</h1>
