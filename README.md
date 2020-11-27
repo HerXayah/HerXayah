@@ -25,6 +25,7 @@
 <li>
 <b>Working @:</b> Intave Anticheat & MinetaniaNET
 </li>
+<br>
 <p align="center"><b>Thanks fow weading this onyee-san</b></p>
 </div>
 <div>
