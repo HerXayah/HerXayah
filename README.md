@@ -7,10 +7,7 @@
 <br>
 <div>
 <h2 align="left"> 🦊 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🦊 </h2>
-<div height="200" width="300" align="right">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
-</div>
+<img src="https://i.imgur.com/6kVDGoi.png" align="left">
 <li>
 <b>Name:</b> Yukii</li>
 <li>
@@ -34,3 +31,6 @@
 </div>
 
 </body>
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
