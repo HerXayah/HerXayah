@@ -50,20 +50,14 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <br>
 <div>
-<h2 align="center" style="font-size: 24px">~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 📻 ~</h2>
+<h2 align="center" style="font-size: 24px">~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
 <br>
-<div>
-<div align="right">
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=AzarielDev&show_retweet=false)](https://github.com/gazf/github-readme-twitter)
-</div>
-<div align="left"><p>
+<div align="center"><p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&redirect=true)
 <p>
 <br>
 <br>
-</div>
 </div>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
