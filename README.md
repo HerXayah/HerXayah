@@ -17,7 +17,7 @@
 <b>Loves:</b> you! and donuts and games maybe -///-
 </li>
 <li>
-<b>Needs:</b> much love -//////-
+<b>Gender:</b> she/her/Female
 </li>
 <li>
 <b>Hobbys:</b> Tech Stuff, Graphics Design
