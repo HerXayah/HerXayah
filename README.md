@@ -50,7 +50,7 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <br>
 <div>
-<h2 align="center" style="font-size: 24px">~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
+<h2 align="center" style="font-size: 24px">  ~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
 <br>
 <div align="center"><p>
 
