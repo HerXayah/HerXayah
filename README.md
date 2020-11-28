@@ -52,6 +52,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <div>
 <h2 align="center" style="font-size: 24px">~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 📻 ~</h2>
 <br>
+<div>
 <div align="right">
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=AzarielDev&show_retweet=false)](https://github.com/gazf/github-readme-twitter)
@@ -62,6 +63,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <p>
 <br>
 <br>
+</div>
 </div>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
