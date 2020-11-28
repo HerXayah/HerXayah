@@ -20,7 +20,7 @@
 <b>Gender:</b> she/her/Female
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphics Design
+<b>Hobbys:</b> Tech Stuff, Graphics Design, Music
 </li>
 <li>
 <b>Working @:</b> Intave Anticheat & MinetaniaNET
