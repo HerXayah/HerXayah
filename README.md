@@ -46,7 +46,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
 <p align="center"><a href="https://twitter.com/AzarielDev" target="_blank"><img src="https://img.shields.io/badge/AzawielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://twitch.tv/AzarielDev" target="_blank"><img src="https://img.shields.io/badge/AzawielDev%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitch.tv/sinonaim" target="_blank"><img src="https://img.shields.io/badge/Sinonaim%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
