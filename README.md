@@ -23,7 +23,7 @@
 <b>Hobbys:</b> Tech Stuff, Graphics Design, Music
 </li>
 <li>
-<b>Working @:</b> Intave Anticheat & MinetaniaNET
+<b>Working @:</b> Intave Anticheat
 </li>
 <br>
 <p><b>     Thanks fow weading this onyee-san<br>
