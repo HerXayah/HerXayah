@@ -11,7 +11,7 @@
 <li>
 <b>Name:</b> Yukii</li>
 <li>
-<b>Fursona:</b> Female Snow Fox >~<
+<b>Fursona:</b> Female Snow Fox > ~ <
 </li>
 <li>
 <b>Loves:</b> you! and donuts and games maybe -///-
@@ -20,10 +20,10 @@
 <b>Gender:</b> she/her/Female | Trans MtF
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphics Design, Music
+<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
 </li>
 <li>
-<b>Working @:</b> Intave Anticheat
+<b>Working @:</b> Intave Anticheat | snens.team
 </li>
 <br>
 <p><b>     Thanks fow weading this onyee-san<br>
@@ -53,7 +53,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <h2 align="center" style="font-size: 24px">~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
 <br>
 <div align="center"><p>
-Found at my [Website](thicc-thighs.de), with my Discord Playing Game Simultaniously
+Found at my [Website](https://wwww.thicc-thighs.de), with my Discord Playing Game Simultaniously
 <p>
 <br>
 <br>
