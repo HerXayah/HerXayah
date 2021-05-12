@@ -53,7 +53,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <h2 align="center" style="font-size: 24px">~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
 <br>
 <div align="center"><p>
-Found at my Website(https://wwww.thicc-thighs.de), with my Discord Playing Game Simultaniously
+Found at my Websitehttps://wwww.thicc-thighs.de
 <p>
 <br>
 <br>
