@@ -53,7 +53,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <h2 align="center" style="font-size: 24px">~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
 <br>
 <div align="center">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=itzasuna)
+View at my Website https://thicc-thighs.de
 <br>
 <br>
 </div>
