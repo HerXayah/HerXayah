@@ -54,7 +54,8 @@ most used s-s-sociaw things >~< xoxox</p>
 <br>
 <div align="center"><p>
 Found at my Website https://www.thicc-thighs.de
-<p>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=itzasuna)
+  <p>
 <br>
 <br>
 </div>
