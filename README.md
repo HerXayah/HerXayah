@@ -50,10 +50,10 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <br>
 <div>
-<h2 align="center" style="font-size: 24px">~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓙𝓪𝓶 📻 ~</h2>
+<h2 align="center" style="font-size: 24px">~ 📻 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 📻 ~</h2>
 <br>
 <div align="center">
-View at my Website https://thicc-thighs.de
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/202740603790819328)](https://discord.com/users/202740603790819328)
 <br>
 <br>
 </div>
