@@ -26,8 +26,6 @@
 <b>Working @:</b> Intave Anticheat | snens.team
 </li>
 <br>
-<p><b>     Thanks fow weading this onyee-san<br>
-                  verwy cuwute of chu *kms pls*</b></p>
 </div>
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
