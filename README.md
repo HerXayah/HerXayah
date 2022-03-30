@@ -11,13 +11,13 @@
 <li>
 <b>Name:</b> Emily</li>
 <li>
-<b>Fursona:</b> Female Snow Fox > ~ <
+<b>Fursona:</b> Female Snow Fox
 </li>
 <li>
-<b>Loves:</b> you! and donuts and games maybe -///-
+<b>Loves:</b> anime, osu, rythm games
 </li>
 <li>
-<b>Gender:</b> she/her/Female
+<b>Gender:</b> she/her/Female 🏳️‍⚧️
 </li>
 <li>
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
@@ -27,7 +27,7 @@
 </li>
 <br>
 <p><b>     Thanks fow weading this onyee-san<br>
-                  verwy cuwute of chu</b></p>
+                  verwy cuwute of chu *kms pls*</b></p>
 </div>
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
