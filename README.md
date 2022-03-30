@@ -25,9 +25,6 @@
 <li>
 <b>Working @:</b> Intave Anticheat | snens.team
 </li>
-<li>
-  <b>Playlists: </b> [Youtube](https://www.youtube.com/playlist?list=PLtmX95UgaR7vfBAIDZp8dpKtyvIO4mdEd) | [Spotify](https://open.spotify.com/playlist/58xp2g2foYPWWiDd2QcCuQ?si=8b81a94de777497a)
-</li>
 <br>
 <p><b>     Thanks fow weading this onyee-san<br>
                   verwy cuwute of chu *kms pls*</b></p>
