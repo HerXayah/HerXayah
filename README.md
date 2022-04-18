@@ -4,7 +4,7 @@
  
  <div align="center">
   <a href="https://discord.com/users/202740603790819328" >
-    <img src="https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=:%22Egirl%20for%20Life%22&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
+    <img src="https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=%22*Egirl%20for%20Life*%22&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
   </a>
 </div>
  <br>
