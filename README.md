@@ -2,7 +2,6 @@
 <br>
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
 [![Discord Presence](https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=:%22Egirl%20for%20Life%22&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121)](https://discord.com/users/202740603790819328)
-<body>
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
