@@ -25,7 +25,7 @@
 <b>Fursona:</b> Female Snow Fox
 </li>
 <li>
-<b>Loves:</b> anime, osu, rythm games
+<b>Loves:</b> anime, osu, rhythm games
 </li>
 <li>
 <b>Gender:</b> she/her/Female 🏳️‍⚧️
