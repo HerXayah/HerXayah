@@ -9,6 +9,7 @@
   </a>
   <br>
   <p>𝑔𝒾𝓇𝒾 𝑔𝒾𝓇𝒾 𝑒𝓎𝑒 𝒾𝓀𝑒𝓃𝒶𝒾 𝒷𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒</p>
+  ![](https://komarev.com/ghpvc/?username=PrincessAkira&style=flat-square)
 </div>
  <br>
     <div align="center">
