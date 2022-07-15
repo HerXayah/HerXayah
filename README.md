@@ -13,7 +13,6 @@
   <p>𝒩𝒶𝓃'𝒾 𝒹𝑜 𝒢 𝒹𝑒𝓂𝑜</p>
 <p>𝒮𝓊𝒷𝑒𝓉𝑒 𝓀𝑜𝓌𝒶𝓈𝒽𝒾𝓉𝑒 𝓂𝒾𝓈𝑒𝓇𝓊</p>
 <p><a href="https://www.youtube.com/watch?v=_WXNeFygGME">- 𝐼𝓀𝑒𝓃𝒶𝒾 𝐵𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒 (𝒲𝒶𝓁𝓀𝓊𝓇𝑒)</a><p>
-  <br> 
   
   ![](https://komarev.com/ghpvc/?username=PrincessAkira&style=flat-square)
 </div>
