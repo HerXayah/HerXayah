@@ -7,13 +7,13 @@
   <a href="https://laby.net/@liebesschwur" >
    <img src="https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
   </a>
+    <br>
   <p>𝑔𝒾𝓇𝒾𝑔𝒾𝓇𝒾 𝒶𝒾</p>
   <p>𝒾𝓀𝑒𝓃𝒶𝒾 𝒷𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒</p>
   <p>𝒩𝒶𝓃'𝒾 𝒹𝑜 𝒢 𝒹𝑒𝓂𝑜</p>
 <p>𝒮𝓊𝒷𝑒𝓉𝑒 𝓀𝑜𝓌𝒶𝓈𝒽𝒾𝓉𝑒 𝓂𝒾𝓈𝑒𝓇𝓊</p>
 <p><a href="https://www.youtube.com/watch?v=_WXNeFygGME">- 𝐼𝓀𝑒𝓃𝒶𝒾 𝐵𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒 (𝒲𝒶𝓁𝓀𝓊𝓇𝑒)</a><p>
   
-  ![](https://komarev.com/ghpvc/?username=PrincessAkira&style=flat-square)
 </div>
     <div align="center">
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
