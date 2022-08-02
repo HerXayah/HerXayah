@@ -4,7 +4,7 @@
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a href="https://laby.net/@liebesschwur" >
+  <a href="https://laby.net/@Sorakali" >
    <img src="https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
   </a>
     <br>
@@ -24,7 +24,7 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> <a href='https://laby.net/@liebesschwur' target=_blank>Emily</a></li>
+ <b>Name:</b> <a href='https://laby.net/@Sorakali' target=_blank>:3</a></li>
 <li>
 <b>Fursona:</b> Female Snow Fox
 </li>
