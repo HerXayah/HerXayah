@@ -26,7 +26,7 @@
 <li>
  <b>Name:</b> Sarah</li>
 <li>
-<b>Fursona:</b> Female Snow Fox
+<b>Fursona:</b> Snow Fox
 </li>
 <li>
 <b>Loves:</b> anime, osu, rhythm games
