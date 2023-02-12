@@ -38,6 +38,9 @@
 <b>Git Server</b> https://git.thicc-thighs.de
 </li>
 <li>
+<b>LastFM:</b> https://www.last.fm/de/user/melowchi
+</li>
+<li>
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
 </li>
 <li>
