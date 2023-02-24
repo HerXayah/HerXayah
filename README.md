@@ -5,7 +5,8 @@
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
   <a href="https://thicc-thighs.de/" >
-   <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=E568C4&gradient=8B8BFA-F91DBE"  />
+   <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=E568C4&gradient=8B8BFA-E568C4"  />|
+ <!-- https://www.joshwcomeau.com/gradient-generator?colors=8b8bfa|ddd1f3|e568c4&angle=60&colorMode=hcl&precision=15&easingCurve=0.333|1|0.666|0 -->
   </a>
     <br>
   <p>𝑔𝒾𝓇𝒾𝑔𝒾𝓇𝒾 𝒶𝒾</p>
