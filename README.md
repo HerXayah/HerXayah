@@ -4,11 +4,9 @@
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a href="https://thicc-thighs.de/" >
-    
+  
     [![Discord Presence](https://lanyard.kyrie25.me/api/202740603790819328)](https://discord.com/users/202740603790819328)
-    
-  </a>
+  
     <br>
   <p>𝑔𝒾𝓇𝒾𝑔𝒾𝓇𝒾 𝒶𝒾</p>
   <p>𝒾𝓀𝑒𝓃𝒶𝒾 𝒷𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒</p>
