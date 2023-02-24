@@ -5,7 +5,7 @@
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
   <a href="https://thicc-thighs.de/" >
-   <img src="https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
+   <img src="https://lanyard.kyrie25.me/api/368399721494216706?waveColor=FF5E5EC&waveSpotifyColor=FF597B"  />
   </a>
     <br>
   <p>𝑔𝒾𝓇𝒾𝑔𝒾𝓇𝒾 𝒶𝒾</p>
