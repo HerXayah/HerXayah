@@ -35,7 +35,7 @@
 <b>Gender:</b> she/her/Female 🏳️‍⚧️
 </li>
 <li>
-<b>Git Server</b> https://git.thicc-thighs.de
+<b>Song History</b> https://scrobble.egirldev.co.uk
 </li>
 <li>
 <b>LastFM:</b> https://scrobble.egirldev.co.uk
