@@ -35,7 +35,7 @@
 <b>Gender:</b> she/her/Female 🏳️‍⚧️
 </li>
 <li>
-<b>LastFM:</b> https://scrobble.egirldev.co.uk
+<b>Scrobble:</b> https://scrobble.egirldev.co.uk
 </li>
 <li>
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
