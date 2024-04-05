@@ -26,6 +26,9 @@
 <li>
  <b>Name:</b> Sarah</li>
 <li>
+<li>
+<b>Deadname</b> Dominic
+</li>
 <b>Fursona:</b> Snow Fox
 </li>
 <li>
