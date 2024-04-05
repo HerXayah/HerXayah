@@ -25,9 +25,10 @@
   </div>
 <li>
  <b>Name:</b> Sarah</li>
+  <li>
 <b>Deadname:</b> Dominic
 </li>
-</li>
+<li>
 <b>Fursona:</b> Snow Fox
 </li>
 <li>
