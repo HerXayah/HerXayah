@@ -25,9 +25,6 @@
   </div>
 <li>
  <b>Name:</b> Sarah</li>
-  <li>
-<b>Deadname:</b> Dominic
-</li>
 <li>
 <b>Fursona:</b> Snow Fox
 </li>
