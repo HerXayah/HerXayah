@@ -32,7 +32,7 @@
 <b>Loves:</b> anime, osu, rhythm games
 </li>
 <li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
+<b>Gender:</b> she/her/Female
 </li>
 <li>
 <b>LastFM:</b> https://scrobble.egirl.ing
