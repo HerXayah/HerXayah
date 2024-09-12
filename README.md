@@ -5,7 +5,7 @@
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
   <a href="https://egirl.ing/" >
-   <img src="https://lanyard.kyrie25.me/api/202740603790819328?showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+   <img src="https://lanyard.kyrie25.me/api/202740603790819328?showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
   </a>
     <br>
   <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
